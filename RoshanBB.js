@@ -6,7 +6,6 @@
  * All rights reserved.
  * Date: 2016-6-13 20:46:54
  */
-
 ;
 (function ($) {
     'use strict';
